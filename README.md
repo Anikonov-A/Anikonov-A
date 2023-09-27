@@ -1,22 +1,19 @@
-### Hi there 👋
-
-- 🌱 I’m currently learning JavaScript
-- 📫 How to reach me: antonanikonov1@gmail.com
-- I'm looking for a first job in IT company
-- I'm intrested in Web development
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="100"/>
-</div>
-
-### My Tech Stack:
+### Hi there :metal:
+# 💫 About Me:
+- 🌱 I’m currently learning JavaScript<br>- 📫 How to reach me: antonanikonov1@gmail.com<br>- :monocle_face: I'm looking for a first job in IT company<br>- :zap: I'm intrested in Web development
 
 
-### My Links:
-<div id="badges">
-  <a href="https://www.linkedin.com/in/anton-anikonov">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&link=https%3A%2F%2" alt="LinkedIn Badge"/>
-  </a> 
-</div>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anton-anikonov) 
 
-<img src="https://komarev.com/ghpvc/?username=Anikonov-A&style=flat-square&color=blue" alt=""/>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Anikonov-A&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Anikonov-A&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anikonov-A&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Anikonov-A&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
