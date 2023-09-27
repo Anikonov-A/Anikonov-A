@@ -14,7 +14,9 @@
 
 ### My Links:
 <div id="badges">
-  <a href="https://www.linkedin.com/in/anton-anikonov" target="_blank">
+  <a href="https://www.linkedin.com/in/anton-anikonov">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&link=https%3A%2F%2" alt="LinkedIn Badge"/>
   </a> 
 </div>
+
+<img src="https://komarev.com/ghpvc/?username=Anikonov-A&style=flat-square&color=blue" alt=""/>
