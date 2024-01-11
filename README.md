@@ -1,6 +1,7 @@
 ### Hi there :metal:
 # 💫 About Me:
-- 🌱 I’m currently learning React and TypeScript<br>- 📫 How to reach me: antonanikonov1@gmail.com<br>- :monocle_face: I'm looking for a first job in IT company<br>- :zap: I'm intrested in Web development
+- 🌱 I’m currently learning React and TypeScript<br>- 📫 How to hire me: antonanikonov1@gmail.com<br>- :monocle_face: I'm looking for a first job in IT company<br>- :zap: I'm 
+interested in Web development
 
 
 ## 🌐 Socials:
